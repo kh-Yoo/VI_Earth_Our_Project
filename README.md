@@ -1,5 +1,5 @@
 # VI_Earth_Our_Project
-[실행 영상] (https://youtu.be/xCcYH-45EbU)
+[실행 영상](https://youtu.be/xCcYH-45EbU)
 
 -Panel을 이용한 미션 열기
 2개의 Button을 만들었습니다.
