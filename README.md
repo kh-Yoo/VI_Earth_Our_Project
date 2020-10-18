@@ -1,5 +1,6 @@
 # VI_Earth_Our_Project
--7주차-
+##7주차
+
 [실행 영상](https://youtu.be/-VA0qKtAGOA)
 ![일과표1](https://user-images.githubusercontent.com/62977669/96365322-c2fd6200-117a-11eb-82fb-903ba079ea8a.JPG)
 ![일과표2](https://user-images.githubusercontent.com/62977669/96365324-c42e8f00-117a-11eb-8369-ea62b2fcfa2b.JPG)
@@ -29,7 +30,8 @@ y축에서는 900 : 1 비율로 나눠서 사용자의 위치가 지도 패널�
 실시간으로 지도 패널에 사용자의 위치에 따라 노란 점이 움직인다.
 제작하는 게임에 맞는 지도 이미지가 완성이 되면 경계선을 조금 더 정확하게 해서 완성도를 높일 것입니다.
 
--6주차-
+##6주차
+
 ![1](https://user-images.githubusercontent.com/62977669/95690666-40454600-0c54-11eb-9c0b-89bb3262f5ab.JPG)
 ![2](https://user-images.githubusercontent.com/62977669/95690669-420f0980-0c54-11eb-8b60-4b4a3bfd9acc.JPG)
 ![3](https://user-images.githubusercontent.com/62977669/95690670-42a7a000-0c54-11eb-970d-a923d454d18c.JPG)
