@@ -2,6 +2,7 @@
 ## 7주차
 
 [실행 영상](https://youtu.be/-VA0qKtAGOA)
+
 ![일과표1](https://user-images.githubusercontent.com/62977669/96365322-c2fd6200-117a-11eb-82fb-903ba079ea8a.JPG)
 ![일과표2](https://user-images.githubusercontent.com/62977669/96365324-c42e8f00-117a-11eb-8369-ea62b2fcfa2b.JPG)
 
